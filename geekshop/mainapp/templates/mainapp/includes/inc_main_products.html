@@ -1,0 +1,14 @@
+{% load static %}
+<div class="tab-content">
+    {% for item in products %}
+    <div class="block">
+        <a href="#"><img src="/media/{{ item.image }}" alt="">
+            <div class="text">
+                <img src="{% static 'img/icon-hover.png' %}" alt="img">
+                <h4>{{ item.short_desc }}</h4>
+                <p>{{ item.description }}</p>
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>

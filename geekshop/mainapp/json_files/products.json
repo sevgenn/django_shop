@@ -1,0 +1,65 @@
+[
+  {
+    "category": "офис",
+    "name": "стул красный",
+    "image": "products_images/product-4.jpg",
+    "short_desc": "хороший стул",
+    "description": "от него не оторваться",
+    "price": "1000",
+    "quantity": "50"
+  },
+  {
+    "category": "офис",
+    "name": "стул синий",
+    "image": "products_images/product-2.jpg",
+    "short_desc": "удобный стул",
+    "description": "от него совсем не оторваться",
+    "price": "1100",
+    "quantity": "50"
+  },
+  {
+    "category": "офис",
+    "name": "стул белый",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "совершенный стул",
+    "description": "от него невозможно оторваться",
+    "price": "1500",
+    "quantity": "50"
+  },
+  {
+    "category": "дом",
+    "name": "стул белый",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "стул для кухни",
+    "description": "превосходный стул для кухни",
+    "price": "2000",
+    "quantity": "50"
+  },
+  {
+    "category": "дом",
+    "name": "стул белый",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "стул для зала",
+    "description": "отличный стул для зала",
+    "price": "2500",
+    "quantity": "50"
+  },
+  {
+    "category": "модерн",
+    "name": "стул белый",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "сюрреалистичный стул",
+    "description": "почувствуй себя космонавтом",
+    "price": "2000",
+    "quantity": "50"
+  },
+  {
+    "category": "классика",
+    "name": "стул белый",
+    "image": "products_images/product-6.jpg",
+    "short_desc": "трон",
+    "description": "просто трон",
+    "price": "25000",
+    "quantity": "5"
+  }
+]
